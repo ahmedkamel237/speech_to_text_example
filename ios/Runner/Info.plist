@@ -6,6 +6,10 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Speech To Text Example</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Needed for converting speech to text</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Needed for converting speech to text also</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
